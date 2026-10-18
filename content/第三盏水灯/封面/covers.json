@@ -1,0 +1,86 @@
+{
+  "title": "第三盏水灯",
+  "slug": "第三盏水灯",
+  "author": "龙龙老表",
+  "width": 600,
+  "height": 800,
+  "copy": {
+    "tags": [
+      "水灯祭",
+      "借名续命",
+      "民俗禁忌",
+      "第三道呼吸"
+    ],
+    "hookTop": "河里漂来的，为什么是我的发卡",
+    "blurb": "他为流量点亮第三盏水灯，才发现河里喊的不是妹妹，而是他借了七年的名字。",
+    "hookBottom": "如果活着的人，才是借名的鬼呢？"
+  },
+  "covers": [
+    {
+      "index": 1,
+      "styleLabel": "冷墨民俗画",
+      "layoutId": "verticalSpine",
+      "mood": "冷湿、幽闭、克制、诡异",
+      "palette": "墨黑、河水青灰、惨白灯光、暗红点睛",
+      "tags": [
+        "水灯祭",
+        "借名续命",
+        "民俗禁忌",
+        "第三道呼吸"
+      ],
+      "hookTop": "河里漂来的，为什么是我的发卡",
+      "hookBottom": "如果活着的人，才是借名的鬼呢？",
+      "file": "封面-01-冷墨民俗画.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800 book cover artwork in refined Chinese ink wash and mineral pigment style, a narrow rural river at night under heavy mist, three small lotus water lanterns drifting in a tense diagonal line, the third lantern held by a barely visible young man standing waist-deep in black water, a single red hair clip caught on the flame, faint ripples forming the suggestion of a second face beneath the surface, distant low village houses and bare winter branches, restrained folk-horror atmosphere, elegant negative space in the upper third for title typography, strong vertical composition, tactile rice-paper texture, subtle crimson accent, cinematic lighting, no text, no lettering, no watermark",
+      "createdAt": "2026-09-11T02:54:48.148Z"
+    },
+    {
+      "index": 2,
+      "styleLabel": "暗潮油画",
+      "layoutId": "thrillerCluster",
+      "mood": "压抑、窒息、亲情惊悚、失控",
+      "palette": "深靛蓝、湿冷黑绿、蜡烛金、血红发卡",
+      "tags": [
+        "水灯祭",
+        "借名续命",
+        "民俗禁忌",
+        "第三道呼吸"
+      ],
+      "hookTop": "河里漂来的，为什么是我的发卡",
+      "hookBottom": "如果活着的人，才是借名的鬼呢？",
+      "file": "封面-02-暗潮油画.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800 atmospheric oil painting for a Chinese folk horror novel, viewed from just above a dark river surface, a young male livestream videographer in a soaked jacket grips one glowing lotus lantern close to his chest while two other lanterns drift behind him, his face half-lit and half-submerged, a ghostly teenage girl reflected in the water but absent from the riverbank, a red hair clip floating beside the lantern flame, old motherly hands faintly emerging from the black current, dense rain and claustrophobic mist, realistic brushwork with thick wet impasto, emotional family horror rather than generic haunted-house imagery, leave the upper left area relatively dark and clean for typography, no text, no lettering, no watermark",
+      "createdAt": "2026-09-11T02:55:40.186Z"
+    },
+    {
+      "index": 3,
+      "styleLabel": "民俗木刻版画",
+      "layoutId": "underlineRule",
+      "mood": "冷峻、宿命、乡土、黑色寓言",
+      "palette": "旧纸米白、煤黑、靛青、朱砂红",
+      "tags": [
+        "水灯祭",
+        "借名续命",
+        "民俗禁忌",
+        "第三道呼吸"
+      ],
+      "hookTop": "河里漂来的，为什么是我的发卡",
+      "hookBottom": "如果活着的人，才是借名的鬼呢？",
+      "file": "封面-03-民俗木刻版画.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800 vertical cover illustration in contemporary Chinese folk woodcut print style, stark carved lines and rough paper grain, a river seen as a long black wound cutting through a small southern town, three lotus lanterns arranged like ritual eyes, a faceless young man on the near bank holding the third lantern, behind him a child-sized shadow with the same posture facing the water, a tiny red hair clip rendered in vivid vermilion, ritual ropes, paper offerings and distant villagers reduced to severe silhouettes, symbolic and unsettling composition, generous pale negative space across the top for title typography, sophisticated bookstore art direction, no text, no lettering, no watermark",
+      "createdAt": "2026-09-11T02:56:29.122Z"
+    }
+  ]
+}

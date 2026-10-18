@@ -1,0 +1,86 @@
+{
+  "title": "县志说我死了",
+  "slug": "县志说我死了",
+  "author": "龙龙老表",
+  "width": 600,
+  "height": 800,
+  "copy": {
+    "tags": [
+      "县志杀人",
+      "活人讣告",
+      "死亡公示",
+      "冷面荒诞"
+    ],
+    "hookTop": "明天死的人，今天还在加班",
+    "blurb": "县志写他明日病逝，全县立刻替他办丧事；他越拼命证明活着，越亲手补完自己的死亡。",
+    "hookBottom": "如果历史认定你已死，你还算活着吗？"
+  },
+  "covers": [
+    {
+      "index": 1,
+      "styleLabel": "民国木刻讽刺风",
+      "layoutId": "verticalSpine",
+      "mood": "冷峻、荒诞、压迫、黑色幽默",
+      "palette": "旧纸米白、墨黑、暗红、灰蓝",
+      "tags": [
+        "县志杀人",
+        "活人讣告",
+        "死亡公示",
+        "冷面荒诞"
+      ],
+      "hookTop": "明天死的人，今天还在加班",
+      "hookBottom": "如果历史认定你已死，你还算活着吗？",
+      "file": "封面-01-民国木刻讽刺风.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait book cover, 600x800, expressive Chinese woodcut print style with rough carved textures and sharp black hatching. A weary county gazette proofreader in a plain 1990s Chinese office shirt stands behind a desk, holding a large blank death notice upside down, while his own shadow lies inside a simple coffin shape on the floor. Around him are stacked county archives, funeral wreaths, a wall clock approaching noon, and a narrow county office corridor receding into darkness. The scene should feel bureaucratic, absurd, and suffocating, with a small visual joke: the living man is standing upright while the shadow looks formally laid to rest. Leave the upper third relatively clean with pale textured paper for title typography. No readable text, no book title, no tags, no author name, no seal, no logo.. Vertical book cover 3:4, leave space for typography overlay, absolutely no text, no Chinese characters, no watermark, no signature, no logo.",
+      "createdAt": "2026-09-11T02:49:52.357Z"
+    },
+    {
+      "index": 2,
+      "styleLabel": "冷色油画黑色喜剧",
+      "layoutId": "boxedTitle",
+      "mood": "阴郁、庄严、窒息、反常",
+      "palette": "铅灰、深青、蜡烛黄、干涸暗红",
+      "tags": [
+        "县志杀人",
+        "活人讣告",
+        "死亡公示",
+        "冷面荒诞"
+      ],
+      "hookTop": "明天死的人，今天还在加班",
+      "hookBottom": "如果历史认定你已死，你还算活着吗？",
+      "file": "封面-02-冷色油画黑色喜剧.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait book cover, 600x800, cinematic oil painting with dramatic chiaroscuro and restrained realistic brushwork. In a cramped Chinese county funeral parlor, a living middle-aged man sits rigidly at the center while several neighbors calmly arrange funeral objects around him as if he were already dead. A funeral shop owner measures a coffin in the background, a young female reporter holds a small recording device, and an elderly mother folds a dark mourning cloth with practical indifference. The protagonist looks directly at the viewer, horrified but forced to remain polite. Behind him, a tall empty wooden frame suggests an official archive record without showing any writing. Leave a relatively clean, dim area across the top for title typography. No readable text, no book title, no tags, no author name, no seal, no logo.. Vertical book cover 3:4, leave space for typography overlay, absolutely no text, no Chinese characters, no watermark, no signature, no logo.",
+      "createdAt": "2026-09-11T02:50:44.024Z"
+    },
+    {
+      "index": 3,
+      "styleLabel": "超现实档案拼贴风",
+      "layoutId": "stackedSpineTags",
+      "mood": "明快、诡谲、讥诮、失真",
+      "palette": "象牙白、档案绿、荧光橙、午夜蓝",
+      "tags": [
+        "县志杀人",
+        "活人讣告",
+        "死亡公示",
+        "冷面荒诞"
+      ],
+      "hookTop": "明天死的人，今天还在加班",
+      "hookBottom": "如果历史认定你已死，你还算活着吗？",
+      "file": "封面-03-超现实档案拼贴风.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait book cover, 600x800, sophisticated surreal collage combining Chinese administrative archive photography, geometric paper cutouts, and contemporary editorial illustration. A tiny living man in a white shirt runs across an enormous county record card, but every route leads toward a funeral procession made of filing cabinets, office chairs, umbrellas, and blank forms. His face appears once in the foreground and fades into a faceless silhouette farther away, suggesting the whole county is forgetting him. A bright orange thread connects his heartbeat monitor, a bowl of noodles, a camera, and a coffin, turning ordinary proof of life into evidence of death. Keep the composition crisp and visually witty rather than horror-like. Reserve the upper left quarter as a clean ivory paper field for title typography. No readable text, no book title, no tags, no author name, no seal, no logo.. Vertical book cover 3:4, leave space for typography overlay, absolutely no text, no Chinese characters, no watermark, no signature, no logo.",
+      "createdAt": "2026-09-11T02:51:36.970Z"
+    }
+  ]
+}

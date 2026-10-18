@@ -1,0 +1,86 @@
+{
+  "title": "那笔没花完的钱",
+  "slug": "那笔没花完的钱",
+  "author": "龙龙老表",
+  "width": 600,
+  "height": 800,
+  "copy": {
+    "tags": [
+      "十八万元",
+      "葬礼审判",
+      "姐弟裂痕",
+      "临终选择"
+    ],
+    "hookTop": "母亲死后，姐姐为何不肯解释",
+    "blurb": "一笔十八万元的流水，把姐弟推上审判席；真相揭开时，争的已不是钱。",
+    "hookBottom": "真相还清了账，却还不回一个家"
+  },
+  "covers": [
+    {
+      "index": 1,
+      "styleLabel": "冷峻纪实摄影",
+      "layoutId": "tiltedImpact",
+      "mood": "压抑、克制、生活化悬疑",
+      "palette": "灰白、旧木色、暗蓝，少量冷红",
+      "tags": [
+        "十八万元",
+        "葬礼审判",
+        "姐弟裂痕",
+        "临终选择"
+      ],
+      "hookTop": "母亲死后，姐姐为何不肯解释",
+      "hookBottom": "真相还清了账，却还不回一个家",
+      "file": "封面-01-冷峻纪实摄影.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800 vertical book cover, cinematic documentary photography in a modest Chinese apartment after a funeral. A white ceramic urn sits on a worn dining table beside an empty pill box, a torn hospital payment slip, an old bank card, and a set of house keys. In the deep background, two adult siblings stand apart in a narrow hallway, their faces partly hidden by shadow, one rigid and silent, the other holding a phone with a blurred bank statement. Natural overcast window light, restrained realism, subtle black humor from the mundane clutter, no melodrama, no visible readable text, no logos, no symbols. Keep the upper third and left side relatively clean and uncluttered for Chinese title typography.. Vertical book cover 3:4, leave space for typography overlay, absolutely no text, no Chinese characters, no watermark, no signature, no logo.",
+      "createdAt": "2026-09-11T02:31:34.608Z"
+    },
+    {
+      "index": 2,
+      "styleLabel": "现代水墨木刻",
+      "layoutId": "asymmetricL",
+      "mood": "肃冷、苍白、命运感",
+      "palette": "宣纸米白、墨黑、枯褐，极少朱砂红",
+      "tags": [
+        "十八万元",
+        "葬礼审判",
+        "姐弟裂痕",
+        "临终选择"
+      ],
+      "hookTop": "母亲死后，姐姐为何不肯解释",
+      "hookBottom": "真相还清了账，却还不回一个家",
+      "file": "封面-02-现代水墨木刻.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800 vertical book cover, contemporary Chinese ink wash combined with rough woodcut print texture. A funeral urn is placed at the bottom center like a silent boundary; above it, two separated silhouettes of adult siblings face opposite directions, connected by a thin broken red thread shaped like a financial ledger line. An empty pill box and a torn corner of a payment receipt appear as small symbolic objects near the urn, rendered with restrained detail. Strong white negative space, dry-brush edges, uneven carved grain, solemn domestic realism rather than fantasy, no readable writing, no title, no author name, no seal, no logo. Reserve a broad clean pale area in the upper half for typography.. Vertical book cover 3:4, leave space for typography overlay, absolutely no text, no Chinese characters, no watermark, no signature, no logo.",
+      "createdAt": "2026-09-11T02:32:21.173Z"
+    },
+    {
+      "index": 3,
+      "styleLabel": "冷色拼贴油画",
+      "layoutId": "boxedTitle",
+      "mood": "疏离、窒息、余味沉重",
+      "palette": "铅灰、医院绿、褪色米黄、深黑",
+      "tags": [
+        "十八万元",
+        "葬礼审判",
+        "姐弟裂痕",
+        "临终选择"
+      ],
+      "hookTop": "母亲死后，姐姐为何不肯解释",
+      "hookBottom": "真相还清了账，却还不回一个家",
+      "file": "封面-03-冷色拼贴油画.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800 vertical cover art, sophisticated editorial collage painted in muted oil and layered paper textures. A long dining table is divided by a sharp vertical fold: on one side, an unopened funeral box and house keys; on the other, an empty hospital chair, a half-open medicine box, and fragments of a torn receipt. Two cropped adult figures are represented only by shoulders and hands, one gripping the table edge, the other resting beside a silent phone. The central fold suggests a family split and an unspoken medical decision. Cold diffused light, tactile brushwork, realistic Chinese domestic setting, understated dark humor through ordinary household objects, no readable text, no title, no author name, no seal, no logo. Leave the upper right quarter calm and low-detail for typography.. Vertical book cover 3:4, leave space for typography overlay, absolutely no text, no Chinese characters, no watermark, no signature, no logo.",
+      "createdAt": "2026-09-11T02:33:11.980Z"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "title": "空棺过关",
+  "slug": "空棺过关",
+  "author": "龙龙老表",
+  "width": 600,
+  "height": 800,
+  "copy": {
+    "tags": [
+      "空棺过关",
+      "旱路亡魂",
+      "三道关卡",
+      "赈粮旧案"
+    ],
+    "hookTop": "二十两银子，买他护一口空棺过关",
+    "blurb": "清末旱路上，落魄驿卒护棺闯关，棺中死者却是他失踪多年的哥哥，而追兵手里的文书没有官印",
+    "hookBottom": "叫出哥哥的名字，公道却来得太迟"
+  },
+  "covers": [
+    {
+      "index": 1,
+      "styleLabel": "冷峻水墨叙事",
+      "layoutId": "glassCard",
+      "mood": "荒凉、紧迫、含蓄",
+      "palette": "土黄、枯墨、灰白、暗红点缀",
+      "tags": [
+        "空棺过关",
+        "旱路亡魂",
+        "三道关卡",
+        "赈粮旧案"
+      ],
+      "hookTop": "二十两银子，买他护一口空棺过关",
+      "hookBottom": "叫出哥哥的名字，公道却来得太迟",
+      "file": "封面-01-冷峻水墨叙事.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Vertical 600x800 historical Chinese ink wash illustration with restrained realistic detail, late Qing dynasty Shaanxi during a severe drought. A weary former courier in a faded dark blue cotton robe leads a gaunt mule carrying a sealed wooden coffin on a rough two-wheel cart along a cracked, dusty post road. A widowed woman in a plain gray headscarf and a thin boy walk beside the cart, while a distant grain-route checkpoint and several mounted constables emerge through yellow dust. The old courier token hangs visibly from the man's belt, but contains no readable writing. The coffin is the dominant central silhouette, ominous yet ordinary. Strong negative space in the upper third for title typography, uncluttered pale dust sky, cinematic vertical composition, historically grounded clothing and props, somber Chinese bookstore cover aesthetic, no written words, no characters, no title, no logo, no seal, no watermark.",
+      "createdAt": "2026-09-11T01:58:23.509Z"
+    },
+    {
+      "index": 2,
+      "styleLabel": "写实油画电影感",
+      "layoutId": "headlineNews",
+      "mood": "压迫、疑惧、沉重",
+      "palette": "焦褐、煤黑、苍青、血锈红",
+      "tags": [
+        "空棺过关",
+        "旱路亡魂",
+        "三道关卡",
+        "赈粮旧案"
+      ],
+      "hookTop": "二十两银子，买他护一口空棺过关",
+      "hookBottom": "叫出哥哥的名字，公道却来得太迟",
+      "file": "封面-02-写实油画电影感.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800 cinematic realist oil painting, late Qing China, drought-stricken Shaanxi post road at dusk. In the foreground, a tired former relay courier with a weather-beaten face grips the reins of a bony mule pulling a closed coffin cart. A guarded widow stands half in shadow with one hand on the coffin latch, and a silent boy clutches a small round bronze token. Behind them, a narrow fortified checkpoint blocks the road; grain transport constables in dark uniforms watch from under a wooden gate, creating a credible bureaucratic threat rather than an action scene. Fine dust, cracked earth, dry grass, worn wood, historically accurate garments, subtle expressions and body language, dramatic side lighting, textured oil paint, leave the upper left quarter relatively dark and clean for Chinese title typography, no written words, no characters, no title, no logo, no seal, no watermark.",
+      "createdAt": "2026-09-11T01:59:17.822Z"
+    },
+    {
+      "index": 3,
+      "styleLabel": "黑白木刻版画",
+      "layoutId": "cinematicBar",
+      "mood": "冷硬、民间、宿命感",
+      "palette": "象牙白、炭黑、赭石、暗朱红",
+      "tags": [
+        "空棺过关",
+        "旱路亡魂",
+        "三道关卡",
+        "赈粮旧案"
+      ],
+      "hookTop": "二十两银子，买他护一口空棺过关",
+      "hookBottom": "叫出哥哥的名字，公道却来得太迟",
+      "file": "封面-03-黑白木刻版画.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Vertical 600x800 expressionist woodcut print inspired by traditional Chinese reportage printmaking, set in late Qing Shaanxi during famine. A large coffin on a mule cart cuts diagonally across a barren road, its iron fittings and rope rendered with sharp carved lines. In front, a former courier holds up an old relay token toward a wooden barrier, while a widow and a boy stand behind the cart; on the opposite side, a grain-route enforcer reaches toward an unofficial arrest document with its blank surface visible but no text. Three checkpoint posts, warning poles, and cracked earth form a stark repeating pattern. Bold black shapes, rough carved textures, limited vermilion accents, tense frozen gestures, symbolic but historically believable, generous pale negative space along the top edge for typography, no written words, no characters, no title, no logo, no seal, no watermark.",
+      "createdAt": "2026-09-11T02:00:10.079Z"
+    }
+  ]
+}

@@ -7,7 +7,6 @@ node_modules/
 .env.*.local
 
 # 生成的作品与运行状态
-content/*
 !content/.gitkeep
 factory-state.json
 

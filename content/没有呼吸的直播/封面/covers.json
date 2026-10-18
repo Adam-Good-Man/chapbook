@@ -1,0 +1,86 @@
+{
+  "title": "没有呼吸的直播",
+  "slug": "没有呼吸的直播",
+  "author": "龙龙老表",
+  "width": 600,
+  "height": 800,
+  "copy": {
+    "tags": [
+      "无声直播",
+      "密室遗言",
+      "声证迷局",
+      "旧错回声"
+    ],
+    "hookTop": "死人准时开口，谁替他完成直播",
+    "blurb": "反锁录音间里，严述死于暴雨夜；十一点的直播却准时响起。程砚从一处没有呼吸的空白中，听见了凶手。",
+    "hookBottom": "当熟悉的声音不再证明活着，你还敢相信录音吗？"
+  },
+  "covers": [
+    {
+      "index": 1,
+      "styleLabel": "冷峻电影感摄影",
+      "layoutId": "thrillerCluster",
+      "mood": "暴雨、窒息、写实、悬疑",
+      "palette": "深蓝灰、湿黑、冷白荧光，少量暗红点缀",
+      "tags": [
+        "无声直播",
+        "密室遗言",
+        "声证迷局",
+        "旧错回声"
+      ],
+      "hookTop": "死人准时开口，谁替他完成直播",
+      "hookBottom": "当熟悉的声音不再证明活着，你还敢相信录音吗？",
+      "file": "封面-01-冷峻电影感摄影.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800, cinematic editorial crime photography, a narrow professional soundproof recording booth at night during a violent rainstorm, viewed through the half-open observation window, a motionless middle-aged man slumped beside a studio microphone, no gore, the door visibly locked from inside, a small insulin pen and medicine box on the desk, faint reflections of audio equipment on dark glass, subtle waveform light reflected across the booth, claustrophobic negative space, realistic textures, restrained composition, sophisticated Chinese bookstore thriller cover aesthetic, leave the upper third relatively clean and dark for title typography, no readable text, no logos, no watermark, no book title, no author name, no seal",
+      "createdAt": "2026-09-11T02:44:32.968Z"
+    },
+    {
+      "index": 2,
+      "styleLabel": "黑白木刻版画",
+      "layoutId": "centerCascade",
+      "mood": "冷硬、压迫、审判感、诡谲",
+      "palette": "墨黑、旧纸灰、铁锈红，仅以红色标出一处刻度",
+      "tags": [
+        "无声直播",
+        "密室遗言",
+        "声证迷局",
+        "旧错回声"
+      ],
+      "hookTop": "死人准时开口，谁替他完成直播",
+      "hookBottom": "当熟悉的声音不再证明活着，你还敢相信录音吗？",
+      "file": "封面-02-黑白木刻版画.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800, highly detailed black-and-white woodcut print illustration, an old-fashioned locked recording booth rendered with sharp carved lines, a suspended studio microphone casting the shape of a noose-like shadow, a sealed door and a tiny key seen through the glass, seventeen broken sound-wave segments arranged like prison bars, a small insulin pen with one marked dosage line in muted rust red, rain slashing diagonally outside, stark negative space on the left for title typography, austere literary mystery atmosphere, tactile paper grain, no readable text, no logos, no watermark, no book title, no author name, no seal",
+      "createdAt": "2026-09-11T02:45:24.821Z"
+    },
+    {
+      "index": 3,
+      "styleLabel": "表现主义油画拼接",
+      "layoutId": "underlineRule",
+      "mood": "失真、冷艳、心理压迫、余震",
+      "palette": "钴蓝、铅灰、沥青黑、病态黄，局部朱红",
+      "tags": [
+        "无声直播",
+        "密室遗言",
+        "声证迷局",
+        "旧错回声"
+      ],
+      "hookTop": "死人准时开口，谁替他完成直播",
+      "hookBottom": "当熟悉的声音不再证明活着，你还敢相信录音吗？",
+      "file": "封面-03-表现主义油画拼接.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800, expressionist oil painting with controlled geometric collage, a sound engineer's mixing console dissolving into a locked recording room, a human profile fragmented into overlapping transparent audio strips, one side showing a calm mouth without visible breath, the other side showing a warped microphone and repeated cough ripples, a small medicine pen and contract papers embedded in the composition, rainwater streaks and hard diagonal shadows, unsettling but elegant, no supernatural elements, premium Chinese literary suspense cover design, reserve a broad quiet area in the lower right for title typography, painterly brushwork, no readable text, no logos, no watermark, no book title, no author name, no seal",
+      "createdAt": "2026-09-11T02:46:18.349Z"
+    }
+  ]
+}

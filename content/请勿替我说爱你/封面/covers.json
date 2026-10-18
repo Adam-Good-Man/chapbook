@@ -1,0 +1,86 @@
+{
+  "title": "请勿替我说爱你",
+  "slug": "请勿替我说爱你",
+  "author": "龙龙老表",
+  "width": 600,
+  "height": 800,
+  "copy": {
+    "tags": [
+      "声音盗用",
+      "七年错过",
+      "AI复活爱",
+      "迟到告白"
+    ],
+    "hookTop": "发布会上播放了我的私密声音",
+    "blurb": "她要夺回被盗的声音，却在一段迟到七年的录音里，听见他替她承担的一生。",
+    "hookBottom": "如果真相迟到了七年，还能算重逢吗？"
+  },
+  "covers": [
+    {
+      "index": 1,
+      "styleLabel": "都市电影感摄影",
+      "layoutId": "ultraSparse",
+      "mood": "冷峻压迫，克制酸涩，后段微暖",
+      "palette": "银灰、深蓝、冷白，点缀极少量暖金",
+      "tags": [
+        "声音盗用",
+        "七年错过",
+        "AI复活爱",
+        "迟到告白"
+      ],
+      "hookTop": "发布会上播放了我的私密声音",
+      "hookBottom": "如果真相迟到了七年，还能算重逢吗？",
+      "file": "封面-01-都市电影感摄影.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800, cinematic editorial photography for a contemporary Chinese urban romance novel. A Chinese woman in her early thirties stands in the backstage corridor of a technology product launch, wearing a tailored dark blazer, one hand near a wireless microphone, her expression controlled but visibly shaken. Behind her, through glass panels, a blurred presentation stage glows with a single abstract waveform and a distant male silhouette, suggesting an ex-lover and an AI voice system without showing readable screens or logos. Reflections on glass create a subtle double image of her face, evoking a stolen voice and a seven-year emotional gap. Realistic lighting, shallow depth of field, restrained composition, premium bookstore cover photography, strong negative space in the upper third for typography, no text, no letters, no logo, no watermark.",
+      "createdAt": "2026-09-11T02:59:55.138Z"
+    },
+    {
+      "index": 2,
+      "styleLabel": "冷调叙事水墨",
+      "layoutId": "tiltedImpact",
+      "mood": "疏离含蓄，旧情翻涌，留白回暖",
+      "palette": "墨黑、雾蓝、灰白，少量朱砂红",
+      "tags": [
+        "声音盗用",
+        "七年错过",
+        "AI复活爱",
+        "迟到告白"
+      ],
+      "hookTop": "发布会上播放了我的私密声音",
+      "hookBottom": "如果真相迟到了七年，还能算重逢吗？",
+      "file": "封面-02-冷调叙事水墨.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800, refined contemporary Chinese ink-and-wash illustration with subtle watercolor texture. In a quiet old apartment kitchen, a woman and a man stand on opposite sides of a narrow table, separated by an open laptop and a small vintage audio recorder. Their bodies face each other but their eyes turn away, conveying years of silence and an unfinished confession. Thin ink lines dissolve into mist around them; a loose audio waveform becomes a river-like stroke winding between the two figures. The background should suggest a modern city apartment and distant high-rise windows with elegant minimal detail. Sophisticated literary romance cover composition, generous pale negative space at the top for title typography, no text, no calligraphy, no characters, no logo, no watermark.",
+      "createdAt": "2026-09-11T03:00:47.446Z"
+    },
+    {
+      "index": 3,
+      "styleLabel": "克制赛博霓虹",
+      "layoutId": "topMasthead",
+      "mood": "科技悬疑，情感窒息，破局微光",
+      "palette": "黑色、靛蓝、青绿色，核心点缀珊瑚橙",
+      "tags": [
+        "声音盗用",
+        "七年错过",
+        "AI复活爱",
+        "迟到告白"
+      ],
+      "hookTop": "发布会上播放了我的私密声音",
+      "hookBottom": "如果真相迟到了七年，还能算重逢吗？",
+      "file": "封面-03-克制赛博霓虹.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800, high-end cyber-noir concept art set in a contemporary Chinese technology company. A Chinese woman in a dark suit stands in the foreground, seen in three-quarter profile, facing a translucent holographic audio waveform that resembles a human voice but remains abstract. On the other side of the waveform, a Chinese man appears as a fragmented reflection behind layers of glass, not a digital avatar. Fine red legal-contract lines and small sealed audio file icons form a restrained geometric grid around them, symbolizing contracts, debt, and evidence; avoid readable writing. The launch stage is barely visible in the deep background, with one warm light breaking through cold blue darkness. Elegant cinematic realism, sophisticated rather than flashy, clean dark negative space across the upper center for typography, no text, no letters, no logo, no watermark.",
+      "createdAt": "2026-09-11T03:01:43.071Z"
+    }
+  ]
+}

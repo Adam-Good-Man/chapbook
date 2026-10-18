@@ -1,0 +1,86 @@
+{
+  "title": "沉钟不响",
+  "slug": "沉钟不响",
+  "author": "龙龙老表",
+  "width": 600,
+  "height": 800,
+  "copy": {
+    "tags": [
+      "水下沉城",
+      "十八小时",
+      "活人账本",
+      "父债真相"
+    ],
+    "hookTop": "十八小时后，整座城重回黑水",
+    "blurb": "她潜入沉城寻找赈灾金锭，却在父亲留下的铜铃里，听见一份足以逼人灭口的活人账。",
+    "hookBottom": "金锭会沉，欠下的人命谁来记？"
+  },
+  "covers": [
+    {
+      "index": 1,
+      "styleLabel": "电影感写实水下摄影",
+      "layoutId": "bottomBanner",
+      "mood": "窒息、冷峻、倒计时感",
+      "palette": "墨黑、深青、浑浊铁灰，点缀暗金",
+      "tags": [
+        "水下沉城",
+        "十八小时",
+        "活人账本",
+        "父债真相"
+      ],
+      "hookTop": "十八小时后，整座城重回黑水",
+      "hookBottom": "金锭会沉，欠下的人命谁来记？",
+      "file": "封面-01-电影感写实水下摄影.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Vertical 600x800 cinematic photorealistic underwater scene, a submerged abandoned county town during a drought reservoir drawdown, a half-collapsed bell tower rising from black silt, a female Chinese salvage diver in worn technical diving gear hovering beside the tower, one hand holding an old bronze bell and the other gripping a narrow copper key, faint rows of flooded rooftops and a buried bank entrance disappearing into darkness, suspended debris and rising bubbles creating intense claustrophobia, a distant glimmer of gold bars barely visible behind cracked masonry, dramatic flashlight beams cutting through murky water, realistic rust, algae, sediment and damaged architecture, high tension, restrained composition, leave the upper third relatively dark and clean for Chinese title typography, no readable text, no logos, no watermark",
+      "createdAt": "2026-09-11T03:12:03.291Z"
+    },
+    {
+      "index": 2,
+      "styleLabel": "民国版画式黑白木刻",
+      "layoutId": "magazineCut",
+      "mood": "压迫、肃杀、黑色幽默",
+      "palette": "骨白、煤黑、锈红、少量旧铜金",
+      "tags": [
+        "水下沉城",
+        "十八小时",
+        "活人账本",
+        "父债真相"
+      ],
+      "hookTop": "十八小时后，整座城重回黑水",
+      "hookBottom": "金锭会沉，欠下的人命谁来记？",
+      "file": "封面-02-民国版画式黑白木刻.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Vertical 600x800 Chinese woodcut print style, bold carved textures and dramatic black ink shadows, an underwater ruined county town arranged like a maze of tilted streets, a giant silent bronze bell hanging inside a cracked bell tower, a lone female diver shown in sharp side profile holding a small copper key, tangled guide rope cut loose behind her, below her a half-open vault containing stacked gold bars and a tightly wrapped waterproof ledger, rising water rendered as dense carved waves, subtle red marks suggesting danger and betrayal, strong symbolic composition inspired by Republican-era Chinese newspaper illustrations, leave a large relatively plain pale area in the upper right for Chinese title typography, no readable text, no logos, no watermark",
+      "createdAt": "2026-09-11T03:13:00.753Z"
+    },
+    {
+      "index": 3,
+      "styleLabel": "暗黑叙事油画",
+      "layoutId": "wideLetterspace",
+      "mood": "神秘、悲怆、宿命反转",
+      "palette": "深靛蓝、沥青黑、血棕、阴冷金色",
+      "tags": [
+        "水下沉城",
+        "十八小时",
+        "活人账本",
+        "父债真相"
+      ],
+      "hookTop": "十八小时后，整座城重回黑水",
+      "hookBottom": "金锭会沉，欠下的人命谁来记？",
+      "file": "封面-03-暗黑叙事油画.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Vertical 600x800 dark narrative oil painting, an underwater stone vault split open beneath a leaning drowned bell tower, a determined Chinese woman salvage diver standing in waist-deep rising water inside the submerged chamber, her face lit by a narrow cold beam, an old bronze bell suspended above like a silent judge, a waterproof oilcloth ledger glowing faintly beside twenty-three gold bars, a copper key and red abacus bead on the wet stone floor, ghostlike silhouettes of ordinary flood victims suggested in the background rather than literal ghosts, rich impasto brushwork, deep shadows, ominous enclosed atmosphere, elegant literary adventure cover composition, keep the left upper quadrant relatively uncluttered and dark for Chinese title typography, no readable text, no logos, no watermark",
+      "createdAt": "2026-09-11T03:13:56.715Z"
+    }
+  ]
+}

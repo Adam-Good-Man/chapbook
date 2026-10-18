@@ -1,0 +1,86 @@
+{
+  "title": "《替名葬》",
+  "slug": "《替名葬》",
+  "author": "龙龙老表",
+  "width": 600,
+  "height": 800,
+  "copy": {
+    "tags": [
+      "活人葬单",
+      "替名归魂",
+      "民俗禁忌",
+      "记忆失名"
+    ],
+    "hookTop": "母亲死后，葬单写上我的名字",
+    "blurb": "她替人写了一辈子碑文，却发现母亲要埋葬的，竟是那个被全村记住的自己。",
+    "hookBottom": "活下来的人，还是原来的她吗？"
+  },
+  "covers": [
+    {
+      "index": 1,
+      "styleLabel": "冷峻民俗木刻版画",
+      "layoutId": "topRightFocus",
+      "mood": "阴冷、克制、诡谲、乡土感",
+      "palette": "墨黑、旧纸灰、暗青、枯黄",
+      "tags": [
+        "活人葬单",
+        "替名归魂",
+        "民俗禁忌",
+        "记忆失名"
+      ],
+      "hookTop": "母亲死后，葬单写上我的名字",
+      "hookBottom": "活下来的人，还是原来的她吗？",
+      "file": "封面-01-冷峻民俗木刻版画.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800 book cover, Chinese folk horror in a restrained traditional woodblock print style, a young Chinese woman in a plain mourning coat standing inside an old rural funeral shop, seen from behind and slightly in profile, one hand holding a small antique bronze lock, a blank funeral document lying on a dark wooden table in the foreground, rows of unmarked ancestral tablets fading into the background, a narrow village doorway opening to mist and a distant ferry pier, subtle ghostly negative space suggesting a second silhouette behind her, strong carved textures, rough ink edges, aged rice paper grain, high contrast, quiet dread rather than gore, keep the upper third relatively empty and light for title typography, no readable text, no characters, no logo, no seal, no watermark",
+      "createdAt": "2026-09-11T03:05:22.811Z"
+    },
+    {
+      "index": 2,
+      "styleLabel": "暗色叙事油画",
+      "layoutId": "ultraSparse",
+      "mood": "悲凉、压迫、母女羁绊、悬疑",
+      "palette": "深蓝、煤灰、铜绿、微弱暖白",
+      "tags": [
+        "活人葬单",
+        "替名归魂",
+        "民俗禁忌",
+        "记忆失名"
+      ],
+      "hookTop": "母亲死后，葬单写上我的名字",
+      "hookBottom": "活下来的人，还是原来的她吗？",
+      "file": "封面-02-暗色叙事油画.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800 book cover, atmospheric dark oil painting with cinematic realism, a young Chinese woman standing ankle-deep at an abandoned riverside ferry before dawn, clutching an old bronze padlock, behind her a translucent older woman in a faded funeral seamstress dress dissolves into rain and river mist, a half-submerged stone stele and a closed wooden coffin barely visible near the bank, distant village lights reflected in black water, the emotional focus is sacrifice and uncertain identity, no blood, no jump-scare, richly textured brushwork, subdued composition, leave a relatively clean dark sky area in the upper half for title typography, no readable writing, no book title, no author name, no logo, no seal, no watermark",
+      "createdAt": "2026-09-11T03:06:13.540Z"
+    },
+    {
+      "index": 3,
+      "styleLabel": "超现实档案摄影拼贴",
+      "layoutId": "rightFlush",
+      "mood": "冷白、疏离、记忆崩解、现代民俗",
+      "palette": "骨白、银灰、铁锈红、深黑",
+      "tags": [
+        "活人葬单",
+        "替名归魂",
+        "民俗禁忌",
+        "记忆失名"
+      ],
+      "hookTop": "母亲死后，葬单写上我的名字",
+      "hookBottom": "活下来的人，还是原来的她吗？",
+      "file": "封面-03-超现实档案摄影拼贴.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800 book cover, avant-garde surreal photographic collage inspired by Chinese rural archival photography, a solitary young Chinese woman seen frontally with her face partly erased into pale paper texture, an empty oval space where her identity should be, layered with a weathered family-tree fragment, a bronze lock, a submerged child's shoe, and a funeral thread running vertically through the composition, old village house and ancestral hall appearing as ghostlike double exposures, stark flash photography mixed with monochrome paper collage, restrained red accent only on the thread, unsettling absence and fading memory, elegant literary horror, leave the upper quarter mostly clean in pale gray for title typography, all documents completely blank with no legible text, no book title, no tags, no author, no logo, no seal, no watermark",
+      "createdAt": "2026-09-11T03:07:07.100Z"
+    }
+  ]
+}

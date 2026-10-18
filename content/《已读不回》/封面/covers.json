@@ -1,0 +1,86 @@
+{
+  "title": "《已读不回》",
+  "slug": "《已读不回》",
+  "author": "龙龙老表",
+  "width": 600,
+  "height": 800,
+  "copy": {
+    "tags": [
+      "职场暗战",
+      "电子签名",
+      "流程陷阱",
+      "公开爆雷"
+    ],
+    "hookTop": "所有人都相信流程，直到流程开口",
+    "blurb": "她被自己的电子签名钉成泄密者，只能用一套会记住谎言的系统，把老板与导师送进公开会议的灯下。",
+    "hookBottom": "离职邮件已读之后，谁还敢替她签字？"
+  },
+  "covers": [
+    {
+      "index": 1,
+      "styleLabel": "冷峻电影感职场摄影",
+      "layoutId": "magazineCut",
+      "mood": "压迫、克制、悬疑、暗涌",
+      "palette": "冷灰蓝、玻璃银、深黑，点缀警示红",
+      "tags": [
+        "职场暗战",
+        "电子签名",
+        "流程陷阱",
+        "公开爆雷"
+      ],
+      "hookTop": "所有人都相信流程，直到流程开口",
+      "hookBottom": "离职邮件已读之后，谁还敢替她签字？",
+      "file": "封面-01-冷峻电影感职场摄影.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800, cinematic editorial photography in a modern Chinese technology company at night. A composed young Chinese female data auditor stands alone in the foreground beside a glass meeting-room wall, holding a thin folder close to her chest, her face half-lit and emotionally restrained. Behind the glass, two blurred male executives sit beneath harsh office lights, while a female finance executive watches from the edge of the frame. Reflections of server racks, approval trails, fingerprints, and fragmented audit diagrams overlap across the glass, suggesting electronic signatures and hidden records without any readable text. Narrow corridor perspective, oppressive corporate atmosphere, realistic skin and fabric texture, subtle tension, shallow depth of field. Leave the upper third and one side relatively clean with dark negative space for Chinese title typography. No readable text, no logos, no book title, no author name, no seal, no watermark.",
+      "createdAt": "2026-09-11T02:36:43.613Z"
+    },
+    {
+      "index": 2,
+      "styleLabel": "黑白木刻叙事插画",
+      "layoutId": "topRightFocus",
+      "mood": "冷硬、讽刺、逼仄、宿命感",
+      "palette": "骨白、墨黑、铁灰，局部朱红",
+      "tags": [
+        "职场暗战",
+        "电子签名",
+        "流程陷阱",
+        "公开爆雷"
+      ],
+      "hookTop": "所有人都相信流程，直到流程开口",
+      "hookBottom": "离职邮件已读之后，谁还敢替她签字？",
+      "file": "封面-02-黑白木刻叙事插画.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800, highly detailed black-and-white woodcut and linocut illustration with sharp carved textures. A young Chinese woman sits beneath a huge looming office stamp mechanism made of gears, document sheets, approval arrows, and locked filing drawers. Thin black lines connect her hand to a stylized electronic signature trail, while shadowy figures of a boss, a mentor, and a finance executive stand behind layers of paper, each partly concealed by bureaucratic forms. A small controlled area of vermilion red marks the critical broken chain in the records, not a seal and not readable writing. Strong diagonal composition, claustrophobic office architecture, dark workplace satire, theatrical light and deep carved shadows. Keep the upper left area comparatively plain and pale for Chinese title typography. No readable text, no logos, no book title, no author name, no seal, no watermark.",
+      "createdAt": "2026-09-11T02:37:42.849Z"
+    },
+    {
+      "index": 3,
+      "styleLabel": "赛博霓虹审计界面",
+      "layoutId": "asymmetricL",
+      "mood": "冷艳、加速、危险、反转感",
+      "palette": "深靛蓝、黑紫、电青，爆发式橙红",
+      "tags": [
+        "职场暗战",
+        "电子签名",
+        "流程陷阱",
+        "公开爆雷"
+      ],
+      "hookTop": "所有人都相信流程，直到流程开口",
+      "hookBottom": "离职邮件已读之后，谁还敢替她签字？",
+      "file": "封面-03-赛博霓虹审计界面.jpg",
+      "format": "jpg",
+      "width": 600,
+      "height": 800,
+      "authorSeal": "龙龙老表",
+      "prompt": "Portrait 600x800, sophisticated cyber-noir digital painting set inside a futuristic but believable Chinese corporate data center. A determined young Chinese female auditor appears in profile on the right, her face reflected in a transparent security panel. Around her, luminous audit paths form a maze of timestamps, device fingerprints, approval nodes, and branching system logs, all abstract and unreadable. In the background, two male silhouettes are trapped inside intersecting red warning lines, while a female finance executive stands near a bright conference display, suggesting an imminent public exposure. High contrast neon reflections on glass and metal, restrained realism, elegant composition, escalating motion toward the lower center. Reserve a clean dark gradient across the upper left for Chinese title typography. No readable text, no logos, no book title, no author name, no seal, no watermark.",
+      "createdAt": "2026-09-11T02:38:40.613Z"
+    }
+  ]
+}
