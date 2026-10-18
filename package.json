@@ -1,0 +1,31 @@
+{
+  "name": "chapbook",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Chapbook: a local workshop that drafts a short story outline, then writes the full piece",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "new": "node src/index.js new",
+    "list": "node src/index.js list",
+    "approve": "node src/index.js approve",
+    "reject": "node src/index.js reject",
+    "produce": "node src/index.js produce",
+    "resume": "node src/index.js resume",
+    "factory": "node src/index.js factory",
+    "factory:status": "node src/index.js factory-status",
+    "covers": "node src/index.js covers",
+    "script": "node src/index.js script",
+    "backfill": "node src/index.js backfill",
+    "status": "node src/index.js status"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "openai": "^5.23.2",
+    "sharp": "^0.34.2",
+    "undici": "^7.29.1"
+  }
+}

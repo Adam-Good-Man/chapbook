@@ -1,0 +1,24 @@
+# 依赖
+node_modules/
+
+# 密钥与本地环境
+.env
+.env.local
+.env.*.local
+
+# 生成的作品与运行状态
+content/*
+!content/.gitkeep
+factory-state.json
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.idea/
+.vscode/
+
+# 本地代理或缓存
+*.pid
+.cache/
